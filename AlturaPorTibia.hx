@@ -10,7 +10,7 @@ enum Hueso
     TIBIA;
 }
 
-class AlturaPorHueso
+class AlturaPorTibia
 {
     static var personas:Array<Dynamic> = [
         ['Rua', HOMBRE, 37.4],

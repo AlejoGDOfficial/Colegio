@@ -2,7 +2,7 @@
 
 title Subir a GitHub
 
-echo Añadiendo los cambios a git...
+echo Subiendo los cambios a git...
 
 git add .
 
