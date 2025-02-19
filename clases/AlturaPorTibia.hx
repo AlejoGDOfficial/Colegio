@@ -4,12 +4,6 @@ enum Genero
     HOMBRE;
 }
 
-enum Hueso
-{
-    FEMUR;
-    TIBIA;
-}
-
 class AlturaPorTibia
 {
     static var personas:Array<Dynamic> = [

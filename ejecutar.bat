@@ -6,7 +6,7 @@ title Cosas del Colegio
 
 set /p moduloName=Nombre de la Clase: 
 
-haxe -cp clases -D analyzer-optimize -main %moduloName% --interp
+haxe -cp clases -D analyzer-optimize --run %moduloName%
 
 echo.
 
